@@ -4,7 +4,8 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-[API is a set of rules and protocols that allows one piece of software or program to interact with another. allow for the integration of systems and enable functionalities of one software to be used by another ]
+[API rules and mechanisms and protocols that allows one piece of software or program to interact with another. allow for the integration of systems and enable functionalities of one software to be used by another.
+API as a middleman between software applications, allowing them to communicate with one another ]
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
@@ -12,7 +13,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
-[The three Components of API are=
+[The Components of API are=
 Endpoints--API terminology refers to a specific path where API-related functions can be accessed. This path is a URL
 Methods--verbs, define the types of actions or operations that can be executed against the API's endpoints.
 Data Formats--data exchanged between clients and servers via APIs is structured in specific formats,both sides can read and understand the data.
