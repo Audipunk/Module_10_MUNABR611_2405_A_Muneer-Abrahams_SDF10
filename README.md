@@ -12,9 +12,16 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
-[Endpoints--API terminology refers to a specific path where API-related functions can be accessed. This path is a URL
+[The three Components of API are=
+Endpoints--API terminology refers to a specific path where API-related functions can be accessed. This path is a URL
 Methods--verbs, define the types of actions or operations that can be executed against the API's endpoints.
-Data Formats--data exchanged between clients and servers via APIs is structured in specific formats,both sides can read and understand the data.  ]
+Data Formats--data exchanged between clients and servers via APIs is structured in specific formats,both sides can read and understand the data.
+Types of API 
+#Web APIs--  interfaces that operate over the internet and facilitate interactions between systems or devices,  known as open APIs.
+#Operating System APIs--provide a bridge for software applications to request and carry out basic operations, like reading/writing a file, managing memory, or interacting with peripheral devices.
+#Library and Framework APIs-- sets of routines, protocols, and tools bundled together in software libraries or frameworks, providing predefined functions and  help accelerate development
+#Database APIs--interfaces enable communication between an application and a database, allowing for data retrieval, storage, modification, and deletiondatabase management systems (DBMS) offer a specific API.
+#Hardware APIs--  interfaces allow software to interact, control, and retrieve data from hardware devices.]
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
