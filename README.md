@@ -5,7 +5,9 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
 [API rules and mechanisms and protocols that allows one piece of software or program to interact with another. allow for the integration of systems and enable functionalities of one software to be used by another.
-API as a middleman between software applications, allowing them to communicate with one another ]
+API as a middleman between software applications, allowing them to communicate with one another. We Need APIs for Modularity and Scalability,Security,Data Sharing and Innovation.
+I encountered API's with Firebase REAL-time Database in module 5 SDF05 Intro to JS I, When we had to make the Black Jack game.
+ ]
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
