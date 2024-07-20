@@ -11,7 +11,8 @@ I encountered API's with Firebase REAL-time Database in module 5 SDF05 Intro to 
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-[Your answer goes here]
+[API is a interface with a set of rules and protocols that allows one piece of software or program to interact with another software or program  eg.software-to-software interaction.
+Interface encompassing all interaction points between two systems, devices, or users ]
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
@@ -28,9 +29,18 @@ Types of API
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-[Your answer goes here]
+[I used CURL, I found it interesting, had a problem installing it at first but fig it out eventually, I tried Twilio with Curl it was cool getting a online phone number and using Developer docs, using i struggled abit using Terminal. ]
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
-
-[Your answer goes here]
  
+[I found that doing these step when writing a API worked for me.
+1.Recognize the Audience.
+2.Create a User Journey Map.
+3.Start with Guidelines for Common Scenarios.
+4.Add Samples of Code.
+5.Call Out Error Messages and Status Codes.
+6.Maintain Your Documentation.
+I found Calling out errors challenging and status codes.
+I cant say I feel confident in any 1 thing, therefore I would say that i am not confident Yet in API's, but i can say confidently with alot more practice I will be. 
+ 
+
