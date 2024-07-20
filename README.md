@@ -32,7 +32,7 @@ Types of API
 [I used CURL, I found it interesting, had a problem installing it at first but fig it out eventually, I tried Twilio with Curl it was cool getting a online phone number and using Developer docs, using i struggled abit using Terminal. ]
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
-
+ 
 [I found that doing these step when writing a API worked for me.
 1.Recognize the Audience.
 2.Create a User Journey Map.
@@ -41,5 +41,6 @@ Types of API
 5.Call Out Error Messages and Status Codes.
 6.Maintain Your Documentation.
 I found Calling out errors challenging and status codes.
-I cant say I feel confident in any 1 thing, therefore I would say that i am not confident Yet in API's, but i can say confidently with alot more practice I will be. ]
+I cant say I feel confident in any 1 thing, therefore I would say that i am not confident Yet in API's, but i can say confidently with alot more practice I will be. 
  
+
